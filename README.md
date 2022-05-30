@@ -1,2 +1,2 @@
 # Hastane1
-Hastane otomasyon kod başlangıç
+Hastane Otomasyon Çalışması
