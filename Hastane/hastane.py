@@ -1,6 +1,6 @@
 from cmath import e
 from Patiant import Patient
-
+faşmfşmşgas
 class Hastane():
                             #Liste olusturulacak 
     def __init__ (self,ad):
