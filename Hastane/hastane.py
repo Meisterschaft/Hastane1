@@ -1,6 +1,5 @@
 from cmath import e
 from Patiant import Patient
-
 class Hastane():
                             #Liste olusturulacak 
     def __init__ (self,ad):
@@ -31,5 +30,3 @@ hastane = Hastane("Bunyamin Hastanesi") # obje tanımlaması
 
 while True: # true deger alarak çalışır durumda tutmak için
     hastane.program()
-Meisterschaft
-agkşsgmflkasmfiewgl
